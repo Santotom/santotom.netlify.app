@@ -1,0 +1,22 @@
+.main-header{
+    background-color: #143d59;
+    color:#f4b41a;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.body{
+    margin: 0;
+}
+.img-icon{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.site-header-content{
+    margin: 10px;
+
+}
